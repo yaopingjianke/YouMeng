@@ -15836,6 +15836,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -1351363296113970734, guid: 6f82e0bec5162ff46a9c1062ec550682,
+        type: 3}
+      propertyPath: data.hitPoints
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 4652388397007022019, guid: 6f82e0bec5162ff46a9c1062ec550682,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15855,11 +15860,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -1351363296113970734, guid: 6f82e0bec5162ff46a9c1062ec550682,
-        type: 3}
-      propertyPath: data.hitPoints
-      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f82e0bec5162ff46a9c1062ec550682, type: 3}
@@ -31598,6 +31598,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 496976119497114900, guid: 1499420183f4a0d45b5847cbd54bbc49,
+        type: 3}
+      propertyPath: data.hitPoints
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 3119861500338851625, guid: 1499420183f4a0d45b5847cbd54bbc49,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31662,11 +31667,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 496976119497114900, guid: 1499420183f4a0d45b5847cbd54bbc49,
-        type: 3}
-      propertyPath: data.hitPoints
-      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 3119861500338688773, guid: 1499420183f4a0d45b5847cbd54bbc49,
         type: 3}
